@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>歌詞-検索</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>曲名から歌詞の名詞を取得</h1>
+    <!-- <nav>
+        <ul>
+            <li>
+                <a href="/">歌詞-取得</a>
+                <a href="/kasiBunkatu">歌詞-分割</a>
+                <a href="/kasiMeisi">歌詞-名詞</a>
+            </li>
+        </ul>
+    </nav> -->
+    <form method="POST">
+        <label for="song_title">曲名入力:</label>
+        <input type="text" id="song_title" name="song_title">
+        <button type="submit">歌詞取得</button>
+    </form>
+    <h2>歌詞:</h2>
+    <!-- lyrics_lsでfor回す -->
+    {% for lyric in lyrics_ls %}
+        <p>{{ lyric }}</p>
+    {% endfor %}
+
+    <h2>名詞で分割されたもの:</h2>
+    <p>{{ tokens }}</p>
+</body>
+</html>

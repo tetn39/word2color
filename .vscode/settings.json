@@ -1,0 +1,10 @@
+{
+  // デフォルトのフォーマッターに prettier を指定
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // eslint.config.mjsのルールを読み込む
+  "eslint.useFlatConfig": true,
+  // セーブしたときにprettier実行
+  "editor.formatOnSave": true,
+  // tab幅は2に設定
+  "editor.tabSize": 2
+}

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>歌詞-分割</title>
+</head>
+<body>
+    <h1>歌詞-分割</h1>
+    <nav>
+        <ul>
+            <li>
+                <a href="/">歌詞-取得</a>
+                <a href="/kasiBunkatu">歌詞-分割</a>
+                <a href="/kasiMeisi">歌詞-名詞</a>
+            </li>
+        </ul>
+    </nav>
+    <form method="POST">
+        <label for="lyrics">歌詞入力:</label>
+        <textarea id="lyrics" name="lyrics" rows="10" cols="50"></textarea>
+        <button type="submit">分割する</button>
+    </form>
+    <h2>分割されたもの:</h2>
+
+     {% for token in tokens %}
+        <ul>
+            <li>{{ token }}</li>
+        </ul>
+    {% endfor %}
+
+
+
+    <pre>{{ tokens }}</pre>
+</body>
+</html>

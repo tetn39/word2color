@@ -1,0 +1,854 @@
+コーラルレッド coral red
+#ef857d	
+
+サンシャインイエロー sunshine yellow
+#ffedab	
+
+アイスグリーン ice green
+#a3d6cc	
+
+ウイスタリア wistaria
+#8d93c8	
+
+ピンクアーモンド pink almond
+#e3acae
+
+ポピーレッド poppy red
+#ea5550	
+
+クリームイエロー cream yellow
+#fff3b8	
+
+ターコイズグリーン turquoise green
+#00947a	
+
+ブルーラベンダー blue lavender
+#a4a8d4	
+
+ローズダスト rose dust
+#e6c0c0
+
+レッド red
+#ea5550	
+
+ネープルスイエロー naples yellow
+#fdd35c	
+
+シーグリーン sea green
+#00ac97	
+
+パンジー pannsy
+#4d4398	
+
+ホワイト white
+#ffffff
+
+トマトレッド tomato red
+#ea5549	
+
+トパーズ topaz
+#e9bc00	
+
+ペパーミントグリーン peppermint green
+#00ac9a	
+
+バイオレット violet
+#5a4498	
+
+スノーホワイト snow white
+#fafdff
+
+バーミリオン vermilion
+#ea553a	
+
+クロムイエロー chrome yellow
+#fcc800	
+
+ピーコックグリーン peacock green
+#00a497	
+
+ヘリオトロープ heliotrope
+#9079b6	
+
+ピンクホワイト pink white
+#fef9fb
+
+スカーレット scarlet
+#ea5532	
+
+クリーム cream
+#e3d7a3	
+
+ナイルブルー nile blue
+#2cb4ad	
+
+ディープロイヤルパープル deep royal purple
+#47266e	
+
+ミルキーホワイト milky white
+#fffff9
+
+キャロットオレンジ carrot orange
+#ed6d35	
+
+ストロー straw
+#ece093	
+
+サックスブルー saxe blue
+#418b89	
+
+グレープ grape
+#56256e	
+
+アンバーホワイト amber white
+#fff9f5
+
+チャイニーズレッド chinese red
+#ed6d46	
+
+ジャスミンイエロー jasmine yellow
+#edde7b	
+
+スレートグリーン slate green
+#3c7170	
+
+モーブ mauve
+#915da3	
+
+ラベンダーアイス lavender ice
+#f7f6fb
+
+テラコッタ terracotta
+#bd6856	
+
+アンティックゴールド antique gold
+#c1ab05	
+
+テールグリーン teal green
+#006a6c	
+
+アイリス iris
+#c7a5cc	
+
+パールホワイト pearl white
+#f7f6f5
+
+ココアブラウン cocoa brown
+#98605e	
+
+オリーブ olive
+#72640c	
+
+アクアグリーン aqua green
+#88bfbf	
+
+ライラック lilac
+#d1bada	
+
+アイボリー ivory
+#f8f4e6
+
+マホガニー mahogany
+#6b3f31	
+
+オリーブドラブ olive drab
+#665a1a	
+
+アクアマリン aquamarine
+#67b5b7	
+
+ラベンダー lavender
+#cab8d9	
+
+パウダーピンク powder pink
+#f5ecf4
+
+チョコレート chocolate
+#6c3524	
+
+ジョンブリアン jaune brillant
+#ffdc00	
+
+ピーコックブルー peacock blue
+#009e9f	
+
+クロッカス crocus
+#b79fcb	
+
+シルバーホワイト silver white
+#efefef
+
+マルーン marron
+#6a1917	
+
+イエロー yellow
+#ffdc00	
+
+ターコイズ turquoise
+#009b9f	
+
+ラベンダーモーブ lavender mauve
+#a688bd	
+
+フロスティグレイ frosty gray
+#e8ece9
+
+セピア sepia
+#622d18	
+
+シトラス citrus
+#eddc44	
+
+カプリブルー capri blue
+#00a3a7	
+
+パープル purple
+#9b72b0	
+
+シルバーピンク silver pink
+#eeeaec
+
+コーヒー色 coffee
+#7b5544	
+
+ライムライト limelight
+#fff799	
+
+ケンブリッジブルー cambridge blue
+#25b7c0	
+
+ロイヤルパープル royal purple
+#7f1184	
+
+ベージュカメオ beige cameo
+#eee9e6
+
+ブラウン brown
+#8f6552	
+
+カナリヤ canary yellow
+#fff462	
+
+ターコイズブルー turquoise blue
+#00afcc	
+
+レーズン raisin
+#6b395f	
+
+エクリュ ecru
+#eee7e0
+
+バーントシェンナ burnt sienna
+#bb5535	
+
+ミモザ mimosa
+#fff462	
+
+ホライズンブルー horizon blue
+#82cddd	
+
+プラム plum
+#6c2463	
+
+ピンクベージュ pink beige
+#ede4e1
+
+アンバーローズ amber rose
+#e6bfb2	
+
+レモンイエロー lemon yellow
+#fff352	
+
+サマーシャワー summer shower
+#a1d8e2	
+
+ラズベリー raspberry
+#841a75	
+
+フロスティホワイト frosty white
+#e6eae6
+
+ベージュローゼ beige rose
+#e8d3ca	
+
+メロンイエロー melon yellow
+#e0de94	
+
+ホリゾンブルー horizon blue
+#a1d8e6	
+
+フランボワーズ framboise
+#9a0d7c	
+
+オイスターホワイト oyster white
+#eae8e1
+
+サーモンピンク salmon pink
+#f3a68c	
+
+シャルトルーズイエロー chartreuse yellow
+#e3e548	
+
+セルリアンブルー cerulean blue
+#008db7	
+
+ダリアパープル dahlia purple
+#a50082	
+
+ウィステリアミスト wisteria mist
+#d3d6dd
+
+サハラ sahara
+#e29676	
+
+ライムイエロー lime yellow
+#eaeea2	
+
+ダックブルー duck blue
+#007199	
+
+オーキッドパープル orchid purple
+#af0082	
+
+クラウド cloud
+#d4d9df
+
+アッシュローズ ash rose
+#e6bfab	
+
+ライムグリーン lime green
+#e6eb94	
+
+マリンブルー marine blue
+#006888	
+
+ラズベリーレッド raspberry red
+#9f166a	
+
+ムーングレイ moon gray
+#d4d9dc
+
+シェルピンク shell pink
+#fbdac8	
+
+シャトルーズグリーン chartreuse green
+#d9e367	
+
+マドンナブルー madonna blue
+#00608d	
+
+オーキッド orchid
+#d9aacd	
+
+チャイナクレイ china clay
+#d4dcd3
+
+ベビーピンク baby pink
+#fdede4	
+
+レタスグリーン lettuce green
+#d1de4c	
+
+エジプシャンブルー egyptian blue
+#0073a8	
+
+リラ lilla
+#e0b5d3	
+
+サンドベージュ sand beige
+#dcd6d2
+
+ネールピンク nail pink
+#fce4d6	
+
+オリーブグリーン olive green
+#5f6527	
+
+ベビーブルー baby blue
+#bbe2f1	
+
+ローズタンドル rose tendre
+#e6afcf	
+
+オーキッドミスト orchid mist
+#d3d3d8
+
+ローシェンナ raw sienna
+#e17b34	
+
+モスグリーン moss green
+#777e41	
+
+スカイブルー sky blue
+#a0d8ef	
+
+オーキッドピンク orchid pink
+#da81b2	
+
+リードグレイ reed gray
+#d4d9d6
+
+キャラメル caramel
+#bc611e	
+
+グラスグリーン grass green
+#7b8d42	
+
+シャドウブルー shadow blue
+#719bad	
+
+シクラメンピンク cyclamen pink
+#d04f97	
+
+スカイグレイ sky gray
+#cbd0d3
+
+サンセット sunset
+#f6b483	
+
+スプリンググリーン spring green
+#9cbb1c	
+
+シアン cyan
+#00a1e9	
+
+マゼンタ magenta
+#e4007f	
+
+ラベンダーグレイ lavender gray
+#bcbace
+
+シナモン cinnamon
+#be8f68	
+
+リーフグリーン leaf green
+#9fc24d	
+
+ヨットブルー yacht blue
+#409ecc	
+
+ブーゲンビリア bougainvillaea
+#e62f8b	
+
+シルバー silver
+#c9caca
+
+タン tan
+#bf783e	
+
+ホワイトリリー white lily
+#f0f6da	
+
+チョークブルー chalk blue
+#68a9cf	
+
+ルビー ruby
+#c70067	
+
+パールグレイ pearl gray
+#c9c9c4
+
+シャンパン champagne
+#e9dacb	
+
+アスパラガスグリーン asparagus green
+#dbebc4	
+
+ピジョンブルー pigeon blue
+#88b5d3	
+
+クラレット claret
+#941f57	
+
+サンドグレイ sand gray
+#c9c9c2
+
+ピーチ peach
+#fbd8b5	
+
+シトロングリーン citron green
+#618e34	
+
+スモークブルー smoke blue
+#a4c1d7	
+
+アザレ azalee
+#d83473	
+
+マーブルグレイ marble gray
+#c0c5c2
+
+カフェオレ cafe au lait
+#946c45	
+
+メドウグリーン meadow green
+#65ab31	
+
+フロスティブルー frosty blue
+#bbdbf3	
+
+コスモス cosmos
+#dc6b9a	
+
+オパールグレイ opal gray
+#bfbec5
+
+オレンジ orange
+#ee7800	
+
+アップルグリーン apple green
+#a7d28d	
+
+ブルーアシード bleu acide
+#006eb0	
+
+ロータスピンク lotus pink
+#de82a7	
+
+フレンチグレイ french gray
+#8da0b6
+
+アプリコット apricot
+#f7b977	
+
+アイビーグリーン ivy green
+#578a3d	
+
+コバルトブルー cobalt blue
+#0068b7	
+
+オールドオーキッド old orchid
+#e3adc1	
+
+ミスト mist
+#b4aeb1
+
+アンバー amber
+#c2894b	
+
+スピナッチグリーン spinach green
+#417038	
+
+サファイアブルー sapphire blue
+#0068b7	
+
+ローズミスト rose mist
+#debecc	
+
+アッシュブロンド ash blond
+#b5b5ae
+
+ブロンズ bronze
+#ac6b25	
+
+カクタス cactus
+#387d39	
+
+スペクトラムブルー spectrum blue
+#0075c2	
+
+ローズドラジェ rose dragee
+#e5c1cd	
+
+フォッグ fog
+#abb1b5
+
+ヴァニラ vanilla
+#e8c59c	
+
+スカイグリーン sky green
+#bee0c2	
+
+ブルー blue
+#0075c2	
+
+チェリーピンク cherry pink
+#eb6ea0	
+
+ベージュグレイ beige gray
+#b4ada9
+
+コルク cork
+#c49a6a	
+
+スペアミント spearmint
+#79c06e	
+
+ゼニスブルー zenith blue
+#4496d3	
+
+オペラ opera
+#e95388	
+
+シルバーグレイ silver gray
+#afafb0
+
+バーントアンバー burnt umber
+#6f5436	
+
+ミントグリーン mint green
+#89c997	
+
+ヘブンリーブルー heavenly blue
+#68a4d9	
+
+ローズレッド rose red
+#ea618e	
+
+ストームグレイ storm gray
+#aaaab0
+
+ローアンバー raw umber
+#866629	
+
+パロットグリーン parrot green
+#37a34a	
+
+オーキッドグレイ orchid gray
+#bcc7d7	
+
+オールドライラック old lilac
+#b0778c	
+
+グリーンフォッグ green fog
+#abb1ad
+
+フレッシュ flesh
+#fad09e	
+
+サマーグリーン summer green
+#009944	
+
+パウダーブルー powder blue
+#bccddb	
+
+ココア色 cocoa
+#6e4a55	
+
+アッシュグレイ ash gray
+#9fa09e
+
+ゴールデンイエロー golden yellow
+#f6ae54	
+
+オパールグリーン opal green
+#bee0ce	
+
+ライトブルー light blue
+#b2cbe4	
+
+ワインレッド wine red
+#b33e5c	
+
+ローズグレイ rose gray
+#9d8e87
+
+マンダリンオレンジ mandarin orange
+#f3981d	
+
+スプレイグリーン spray green
+#a4d5bd	
+
+ベイビーブルー baby blue
+#a2c2e6	
+
+ガーネット garnet
+#942343	
+
+エレファントスキン elephant skin
+#9f9f98
+
+マリーゴールド marigold
+#f39800	
+
+ボトルグリーン bottle green
+#004d25	
+
+デイドリーム day dream
+#a3b9e0	
+
+コチニールレッド cochineal red
+#c82c55	
+
+バトルシップグレイ battleship gray
+#898989
+
+エクルベージュ ecru beige
+#f6e5cc	
+
+コバルトグリーン cobalt green
+#3cb37a	
+
+サルビアブルー salvia blue
+#94adda	
+
+ストロベリー strawberry
+#e73562	
+
+ストーングレイ stone gray
+#898880
+
+オイスター oyster
+#eae1cf	
+
+エバーグリーン evergreen
+#00984f	
+
+ヒヤシンスブルー hyacinth blue
+#7a99cf	
+
+ルビーレッド ruby red
+#e73562	
+
+モスグレイ moss gray
+#7e837f
+
+オーカー ochre
+#ba8b40	
+
+マラカイトグリーン malachite green
+#009854	
+
+ヒヤシンス hyacinth
+#6c9bd2	
+
+カーマイン carmine
+#d70035	
+
+ダブグレイ dove gray
+#7d7b83
+
+カーキー khaki
+#c5a05a	
+
+グリーン green
+#00a960	
+
+ミッドナイトブルー midnight blue
+#001e43	
+
+シグナルレッド signal red
+#e8383d	
+
+グレイ gray
+#7d7d7d
+
+バフ buff
+#caac71	
+
+エメラルドグリーン emerald green
+#00a968	
+
+ネービーブルー navy blue
+#202f55	
+
+バーガンディー burgundy
+#6c2735	
+
+スチールグレイ steel gray
+#736d71
+
+サフランイエロー saffron yellow
+#fac559	
+
+フォレストグリーン forest green
+#288c66	
+
+プルシャンブルー prussian blue
+#192f60	
+
+ボルドー bordeaux
+#6c272d	
+
+アイビーグレイ ivy gray
+#666c67
+
+パンプキン pumpkin
+#e5a323	
+
+ビリジアン viridian
+#00885a	
+
+アイアンブルー iron blue
+#192f60	
+
+カメリア camellia
+#da536e	
+
+スレートグレイ slate gray
+#626063
+
+イエローオーカー yellow ocher
+#c4972f	
+
+ホーリーグリーン holly green
+#006948	
+
+インディゴ indigo
+#043c78	
+
+ローズ rose
+#e95464	
+
+グラファイト graphite
+#594e52
+
+ブロンド blond
+#f2d58a	
+
+ビリヤードグリーン billiard green
+#005c42	
+
+インクブルー ink blue
+#003f8e	
+
+ローズピンク rose pink
+#f19ca7	
+
+チャコールグレイ charcoal gray
+#4e454a
+
+ベージュ beige
+#eedcb3	
+
+クロムグリーン chrome green
+#00533f	
+
+オリエンタルブルー oriental blue
+#26499d	
+
+ピンク pink
+#f5b2b2	
+
+トープ taupe
+#504946
+
+ビスケット biscuit
+#ead7a4	
+
+アンティークグリーン antique green
+#54917f	
+
+ウルトラマリンブルー ultramarine blue
+#4753a2	
+
+フラミンゴピンク flamingo pink
+#f5b2ac	
+
+ランプブラック lamp black
+#24140e
+
+レグホーン leghorn
+#ffe9a9	
+
+ウォーターグリーン water green
+#a5c9c1	
+
+ウルトラマリン ultramarine
+#434da2	
+
+オールドローズ old rose
+#e29399	
+
+ブラック black
+#000000
