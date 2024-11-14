@@ -11,7 +11,7 @@ const Colors = () => {
 
     try {
       const response = await axios.get(
-        `http://localhost:8000/word2img?word=${word}`
+        `http://localhost:8000/word2color?word=${word}`
       );
       // color_codes:[#000000, #000000, #000000] のようなデータが来る
       const colorCodes = response.data.color_codes;

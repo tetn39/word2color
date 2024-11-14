@@ -1,9 +1,23 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, BackgroundTasks
 from fastapi.middleware.cors import CORSMiddleware
 from get_lyrics import Lyrics
 from get_word_img import get_color_code
+from contextlib import asynccontextmanager
+from controller.database_controller import DatabaseController
 
-app = FastAPI()
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    print("startup event")
+    db_instance.set_app(app)
+    await db_instance.startup()
+    yield
+    print("shutdown event")
+    await db_instance.shutdown()
+
+db_instance = DatabaseController()
+app = FastAPI(lifespan=lifespan)
+
 
 app.add_middleware(
     CORSMiddleware,
@@ -14,6 +28,7 @@ app.add_middleware(
     allow_headers=["*"],
     expose_headers=["Access-Control-Allow-Origin"]
 )
+
 
 
 @app.get("/")
@@ -38,10 +53,17 @@ def get_lyrics(title: str = None) -> dict:
 
     return {"lyrics": song_lyrics, "tokens": nouns}
 
-@app.get("/word2img")
-def word_to_color(word: str) -> dict:
-    dominant_color = get_color_code(word)
-    # print(dominant_color)
+@app.get("/word2color")
+async def word_to_color(word: str) -> dict:
+    # dbにあるか確認
+    existing_colors = await db_instance.get_colors_from_db(word)
+    if existing_colors:
+        return {"word":word, "color_codes": existing_colors}
+    
+    dominant_color = await get_color_code(word)
+    # 非同期でdbに追加
+    await db_instance.add_color_data(word, dominant_color)
+
     return {"word":word, "color_codes": dominant_color}
 
 # 起動したときに実行
