@@ -3,7 +3,6 @@ import axios from "axios";
 
 const Colors = () => {
   const [word, setWord] = useState("");
-  // arrayのusestate
   const [colorCodes, setColorCodes] = useState<string[]>([]);
 
   const handleSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
@@ -13,7 +12,6 @@ const Colors = () => {
       const response = await axios.get(
         `http://localhost:8000/word2color?word=${word}`
       );
-      // color_codes:[#000000, #000000, #000000] のようなデータが来る
       const colorCodes = response.data.color_codes;
       setColorCodes(colorCodes);
       console.log("Color codes:", colorCodes);
@@ -23,42 +21,52 @@ const Colors = () => {
   };
 
   return (
-    <div className="max-w-md mx-auto p-4 pt-6 md:p-6 lg:p-12">
-      <h1 className="text-3xl font-bold mb-4">Word to Color</h1>
-      <p className="text-lg mb-6">Enter a word to generate a color</p>
-      <form onSubmit={handleSubmit} className="flex flex-col">
-        <label className="block mb-2" htmlFor="word">
-          Enter a word:
+    <div className="max-w-lg mx-auto p-6 md:p-8 lg:p-12 bg-white rounded-lg shadow-md">
+      <h1 className="text-4xl font-extrabold text-gray-800 mb-6">
+        Word to Color
+      </h1>
+      <p className="text-lg text-gray-600 mb-8">
+        単語を入力して、関連するカラーコードを生成してみましょう。
+      </p>
+      <form onSubmit={handleSubmit} className="flex flex-col space-y-4">
+        <label htmlFor="word" className="text-gray-700 font-medium">
+          単語を入力:
         </label>
         <input
           type="text"
           id="word"
           value={word}
           onChange={(e) => setWord(e.target.value)}
-          className="w-full p-2 pl-10 text-sm text-gray-700"
-          placeholder="Enter a word"
+          className="w-full p-3 text-gray-800 bg-gray-100 border border-gray-300 rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-orange-400"
+          placeholder="例: 空, 海, 森"
         />
         <button
           type="submit"
-          className="bg-orange-500 hover:bg-orange-700 text-white font-bold py-2 px-4 rounded"
+          className="w-full py-3 bg-orange-500 hover:bg-orange-600 text-white font-bold rounded-lg shadow-md transition-all duration-200"
         >
-          Generate Color
+          色を生成
         </button>
       </form>
-      <h1>{word}</h1>
-      <div className="mt-6">
-        {colorCodes.map((colorCode, index) => (
-          <div
-            key={index}
-            className="flex items-center justify-between p-4 my-2 bg-gray-100 rounded"
-          >
+      <div className="relative w-full h-64 flex justify-center items-center mt-6">
+        <div className="absolute text-center text-2xl font-bold text-gray-800">
+          {word}
+        </div>
+        {colorCodes.map((colorCode, index) => {
+          const angle = (360 / colorCodes.length) * index;
+          const radius = 100; // 円の半径
+          const x = Math.cos((angle * Math.PI) / 180) * radius;
+          const y = Math.sin((angle * Math.PI) / 180) * radius;
+          return (
             <div
-              className="w-12 h-12 rounded"
-              style={{ backgroundColor: colorCode }}
+              key={index}
+              className="absolute w-12 h-12 rounded-full shadow-lg"
+              style={{
+                backgroundColor: colorCode,
+                transform: `translate(${x}px, ${y}px)`,
+              }}
             ></div>
-            <p className="text-gray-800">{colorCode}</p>
-          </div>
-        ))}
+          );
+        })}
       </div>
     </div>
   );
